@@ -1,2 +1,3 @@
 # hello-world
-First repository for tutorial
+
+Let's rock.
